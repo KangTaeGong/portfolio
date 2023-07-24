@@ -38,3 +38,10 @@
 >기술 스택:<br>
 >Java11 / Spring Boot / Gradle / JPA / Spring Data JPA / QueryDSL<br>
 >Thymeleaf /HTML / CSS / H2 / MySQL / Jsoup / json-simple / JQuery
+
+### [넌센스 퀴즈 앱](https://github.com/KangTaeGong/Quiz_Application)
+> 안드로이드 스튜디오를 이용해 처음 제작한 넌센스 퀴즈 애플리케이션 (개인 프로젝트)<br>
+> 제작 연도 : 2017
+>
+> 기술 스택:<br>
+> Java / Android Studio / Gradle
